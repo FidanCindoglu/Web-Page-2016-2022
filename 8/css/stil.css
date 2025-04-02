@@ -1,0 +1,86 @@
+@charset "utf-8";
+#ana {
+	margin: auto;
+	height: auto;
+	width: 900px;
+	box-shadow:#FFF 0px 0px 80px;
+	
+}
+body
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	}
+#ust {
+	
+	height: 300px;
+	width: 900px;	
+}
+#icerik {
+	height: 800px;
+	width: 900px;
+	float: left;
+	background-image: url(../resimler/icerik.fw.png);
+	box-shadow:#FFF 0px 0px 40px;
+}
+#ustmenu {
+	background-color: #BB2F21;
+	height: 36px;
+	width: 900px;
+}
+#ustmenu ul {
+	color: #FFF;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	font-family: "Comic Sans MS", cursive;
+}
+#ustmenu ul li {
+	display: inline;
+	text-align: center;
+	line-height: 36px;
+}
+
+#ustmenu ul li a {
+	color: #FFF;
+	text-align: center;
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+	padding: 6px;
+}
+#ustmenu ul li a:hover {
+	color: #BB2F21;
+	text-align: center;
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+	background-color: #FFF;
+	padding: 6px;
+}
+
+
+
+
+#alt {
+	clear: both;
+	height: 200px;
+	width: 900px;
+ box-shadow:#FFF 0px 0px 80px;
+}
+.yazi {
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+.baslik {
+	font-size: 24px;
+	font-weight: bold;
+	color: #202427;
+	font-style: italic;
+}
+.yazi {
+	text-align: left;
+}
