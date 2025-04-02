@@ -1,0 +1,161 @@
+body
+{
+	background-attachment: fixed;
+	background-image: url(resimler/twitter_arkaplan.jpg);
+	background-repeat: no-repeat;
+}
+.ana
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 780px;
+}
+.header
+{
+	border-radius: 5px;
+	border: #333 solid;
+	background-image: url(resimler/ust-arkaplan.png);
+	background-repeat: repeat-x;
+	height: 30px;
+	background-color: #333;
+}
+.facebook
+{
+	position: absolute;
+	left: 728px;
+	top: 49px;
+}
+.menu
+{
+	height: 50px;
+}
+.slayt
+{
+}
+.sol-taraf
+{
+	float: left;
+	width: 161px;
+        height: 695px;
+    }
+.icerik
+{
+    border-radius: 5px;
+	border: #333 solid;
+	float: left;
+	width: 595px;
+	margin-left: 10px;
+}
+.sag-taraf{
+	float: left;
+	width: 130px;
+}
+.temizle
+{
+	clear:both;
+        height: 3px;
+    }
+.footer
+{
+	width:780px;
+	background-image: url('resimler/footer-arkaplan.png');
+        height: 86px;
+    }
+.sol-kutu
+{
+	width: 160px;
+	border-radius: 2px;
+	border: #333 solid;
+        height: 169px;
+    }
+.sol-kutu-baslik-arka
+{
+	height: 30px;
+	width: 160px;
+	background: url(resimler/menu-arka.png);
+}
+.sol-kutu-arka
+{
+	background-color: #CCC;
+	text-align: center;
+        height: 140px;
+    }
+.sol-kutu-baslik-yazilari
+{
+	color: #000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+}
+.sol-kutu2
+{
+	width: 160px;
+	border-radius: 2px;
+	border: #333 solid;
+        height: 389px;
+    }
+.sol-kutu-baslik-arka2
+{
+	height: 30px;
+	width: 160px;
+	background: url(resimler/menu-arka.png);
+}
+.sol-kutu-arka2
+{
+	background-color: #CCC;
+	text-align: center;
+        height: 359px;
+    }
+.sol-kutu-baslik-yazilari2
+{
+	color: #000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+}
+.ygs-matematik-yazisi {
+	font-size: 17px;
+}
+    .style1
+    {
+        text-align: center;
+    }
+    .style2
+    {
+        font-family: "Times New Roman";
+    }
+    .style3
+    {
+        font-family: "Times New Roman", Times, serif;
+        color: #FFFFFF;
+        text-align: center;
+    }
+    .sol-dikey-menu
+    {
+        list-style-type:none;
+        margin:0;
+        padding:0;
+    }
+    .sol-dikey-menu a
+    {
+        display:block;
+        color:#000000;
+        background-color:transparent;
+        width:140px;
+        text-decoration:none;
+        padding:4px 10px;
+        height: 20px;
+    }
+    .sol-dikey-menu a:hover
+    {
+        font-weight:bold;
+        color:#ffffff;
+        background-image:url(resimler/menu-arka.png);
+    }
+    .sol-dikey-menu li
+    {
+        margin:0 0 2px 0;
+    }
