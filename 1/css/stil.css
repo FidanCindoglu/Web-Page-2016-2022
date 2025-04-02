@@ -1,0 +1,75 @@
+#ana {
+	margin: auto;
+	height: auto;
+	width: 900px;
+	box-shadow:#FFF 0px 20px 100px;
+}
+#ust {
+	background-image: url(../resimler/logo2.png);
+	margin: auto;
+	height: 200px;
+	width: 900px;
+}
+#icerik {
+	background-color: #F28A0A;
+	height: 600px;
+	width: 890px;
+	padding: 5px;
+}
+#alt {
+	height: 250px;
+	width: 900px;
+}
+#menü ul li {
+	list-style-type: none;
+	display: inline;
+}
+#menü ul li a {
+	color: #FBC402;
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: #E61F19;
+	text-decoration: none;
+	padding: 16px;
+	font-weight: bold;
+	font-size: 16px;
+}
+#menü ul li a:hover {
+	color: #E61F19;
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: #F9C302;
+	text-decoration: none;
+	padding: 18px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.baslik {
+	color: #E61F19;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+}
+.yazi {
+	color: #FFF;
+	font-size: 16px;
+	text-align: justify;
+}
+
+
+
+#menü ul li {
+	text-decoration: none;
+}
+
+
+
+
+#menü {
+	height: 50px;
+	width: 898px;
+	background-color: #E61F19;
+	border: thin solid #BD486F;
+}
+.baslik {
+	color: #E61F19;
+	text-align: center;
+}
