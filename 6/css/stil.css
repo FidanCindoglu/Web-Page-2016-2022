@@ -1,0 +1,173 @@
+@charset "utf-8";
+#ana {
+	margin: auto;
+	width: 1000px;
+	padding-top: -5px;
+	
+	box-shadow:#fff 0px 0px 30px;
+}
+#banner {
+	height: 250px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin-bottom: 5px;
+	border-radius:15px;
+}
+#icerik {
+	float: left;
+	width: 694px;
+	background-color: #232323;
+	margin-top: 5px;
+	border-radius: 15px;
+	box-shadow: #000 0px 0xp 35px;
+	color: #FFF;
+	text-decoration: none;
+	text-indent: 1cm;
+	text-align: left;
+}
+#sag {
+	float: right;
+	height: 520px;
+	width: 300px;
+	background-color: #000000;
+	padding-top: 5px;
+	margin-top: 5px;
+	border-radius: 15px;
+}
+#icerik baslik {
+	color: #F00;
+}
+
+#icerik table tr td p a {
+	color: #F00;
+	text-decoration: none;
+}
+#icerik table tr td p a:hover {
+	color: #FF0;
+
+
+}
+#icerik table tr td p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+
+
+
+#sag ul {
+	margin: 0px;
+	padding: 0px;
+}
+#sag ul li {
+	list-style-type: none;
+	display: block;
+	text-decoration: none;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+
+}
+#sag ul li a {
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16pt;
+	color: #FFF;
+	padding: 10px;
+}
+#sag ul li a:hover {
+	color: #000000;
+	background-color: #FFFFFF;
+	border-radius: 15px;
+}
+
+
+
+
+#ust {
+	height: 40px;
+	background-color: #000000;
+	border-radius: 15px;
+	box-shadow: #FFF 0 0 25;
+}
+
+
+#ust ul {
+	text-decoration: none;
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+#ust ul li {
+	display: inline;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16pt;
+	color: #FFF;
+	line-height: 40px;
+	text-align: center;
+
+}
+#ust ul li a {
+	text-decoration: none;
+	color: #FFF;
+	text-align: center;
+	padding: 8px;
+}
+#ust center ul li a:hover {
+	color: #000000;
+	background-color: #FFF;
+	border-radius: 15px;
+}
+body
+{
+	background:url(../Yeni%20klas%C3%B6r/arkaplan1.fw.png)
+	
+	}
+#icerik table {
+	color: #FFF;
+
+}
+#foto {
+	height: 200px;
+	width: 200px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	box-shadow: #FFF 0px 0px 35px;
+	background-color: #232323;
+}
+#icerik center #form1 p {
+	font-family: "Comic Sans MS", cursive;
+	color: #F00;
+}
+.rec {
+	font-family: "Comic Sans MS", cursive;
+	color: #F00;
+}
+#icerik center #form1 p {
+}
+
+
+#icerik center #form1 p {
+	color: #FFF;
+}
+#icerik ul {
+	font-family: "Comic Sans MS", cursive;
+}
+#icerik h1 strong {
+	text-align: center;
+	color: #FF0;
+
+}
+#icerik p {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive;
+}
+#icerik .rec {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 16px;
+	color: #FFF;
+}
